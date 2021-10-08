@@ -8,10 +8,11 @@
   <a href="https://github.com/victorleandroof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorleandroof&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorleandroof&layout=compact&langs_count=7&theme=onedark"/>
+
+  <img  height="180em"  src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif" />
 </div>
 
 <div>
       <img src="https://github.com/victorleandroof/victorleandroof/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-
 
